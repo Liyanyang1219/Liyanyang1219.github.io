@@ -7,3 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+随机更新笔记和随笔
