@@ -9,3 +9,5 @@ title: "Resources"
 ---
 
 这里整理了一些学习资源和我的学习资料
+
+../assets/southeast.pdf
