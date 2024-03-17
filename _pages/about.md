@@ -1,1 +1,9 @@
-随意更新一些notes、资源和随笔。
+---
+permalink:  /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
