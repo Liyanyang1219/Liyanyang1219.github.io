@@ -9,7 +9,7 @@ title: "Notes"
 分析与微分方程
 
 * 数学分析
-  -[数学分析Note](https://liyanyang1219.github.io/assets/MathematicalAnalysis.pdf)
+  - [数学分析Note](https://liyanyang1219.github.io/assets/MathematicalAnalysis.pdf)
 
 代数与数论
 
