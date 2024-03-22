@@ -16,6 +16,7 @@ title: "Notes"
 * 高等代数
 
 * 抽象代数
+  -[抽象代数Note](https://liyanyang1219.github.io/assets/AbstractAlgebra.pdf)
 
 几何与拓扑
 
