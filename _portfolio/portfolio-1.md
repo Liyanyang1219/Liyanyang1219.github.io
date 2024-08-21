@@ -10,6 +10,9 @@ title: "Notes"
 
 * 数学分析
   - [数学分析Note](https://liyanyang1219.github.io/assets/MathematicalAnalysis.pdf)
+*Fourier分析
+*常微分方程
+*实分析
   
 代数与数论
 
@@ -21,3 +24,7 @@ title: "Notes"
 几何与拓扑
 
 * 点集拓扑
+
+概率与统计
+
+*概率论
