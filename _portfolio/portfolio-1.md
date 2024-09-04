@@ -20,6 +20,7 @@ title: "Notes"
 代数与数论
 
 * 高等代数
+  - [高等代数Note](https://liyanyang1219.github.io/assets/AdvancedAlgebra.pdf)
 
 * 抽象代数
   - [抽象代数Note](https://liyanyang1219.github.io/assets/AbstractAlgebra.pdf)
