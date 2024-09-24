@@ -182,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  notes:
+  learnings:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -231,7 +231,7 @@ defaults:
   # _notes
   - scope:
       path: ""
-      type: notes
+      type: learnings
     values:
       layout: single
       author_profile: true
