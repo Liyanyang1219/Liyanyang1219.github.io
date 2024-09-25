@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Materials"
+permalink: /materials/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.materials reversed %}
+  {% include archive-single.html %}
+{% endfor %}
