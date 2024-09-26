@@ -15,3 +15,5 @@ redirect_from:
 [Github](https://github.com/Liyanyang1219) / [QQ](../images/QQ.png)
 
 ## **[Materials](https://liyanyang1219.github.io/materials/)**中是我收集的学习资料和一些有用的链接。
+
+## **[Notes](https://liyanyang1219.github.io/notes/)**中是本人所做的notes。
