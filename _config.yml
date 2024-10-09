@@ -179,7 +179,7 @@ collections:
   materials:
     output: true
     permalink: /:collection/:path/
-  publications:
+  links:
     output: true
     permalink: /:collection/:path/
   notes:
@@ -219,10 +219,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _links
   - scope:
       path: ""
-      type: publications
+      type: links
     values:
       layout: single
       author_profile: true
