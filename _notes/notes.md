@@ -1,4 +1,5 @@
 ---
+title: ""
 collection: notes
 permalink: /notes/
 ---
