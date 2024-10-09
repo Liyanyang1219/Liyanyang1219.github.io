@@ -4,7 +4,7 @@ collection: notes
 permalink: /notes/
 ---
 
-*The ability to feel the beauty of mathematics is probably the most important ability to be a good mathematician. Sense of beauty is of course defined very differently between mathematicians. It is important that each mathematician have their own way to feel the beauty of mathematics. Otherwise we cannot be original.               --Kenji Fukaya*
+*“The ability to feel the beauty of mathematics is probably the most important ability to be a good mathematician. Sense of beauty is of course defined very differently between mathematicians. It is important that each mathematician have their own way to feel the beauty of mathematics. Otherwise we cannot be original.”---Kenji Fukaya*
 
 这里整理了我的一些数学学习笔记、学习资源和我的学习资料
 
