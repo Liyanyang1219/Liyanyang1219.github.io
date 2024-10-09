@@ -18,7 +18,7 @@ redirect_from:
 
 **[Links](https://liyanyang1219.github.io/links/)**中是一些有用的链接。
 
-**[Materials](https://liyanyang1219.github.io/materials/)**包括一些国内外学校的试题资源、经典参考书和论文、以及经典书籍的参考解答。
+**[Materials](https://liyanyang1219.github.io/materials/)**包括一些国内外学校的试题资源和讲义、经典参考书和论文，以及经典书籍的参考解答。
 
 **[Notes](https://liyanyang1219.github.io/notes/)**中是本人所做的notes。
 
