@@ -1,10 +1,7 @@
 ---
-layout: archive
-title: " "
+title: ""
+collection: notes
 permalink: /basic/
-author_profile: true
-redirect_from:
-  - /notes
 ---
 
 *test*
