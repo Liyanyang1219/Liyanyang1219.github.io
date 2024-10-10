@@ -20,6 +20,8 @@ permalink: /notes/
 
 - **[Algebra](https://liyanyang1219.github.io/notes/algebra) :** *近世代数、交换代数、同调代数、李代数与李群、表示论*
 
+- **[Number theory](https://liyanyang1219.github.io/notes/numbertheory) :** *解析数论、代数数论*
+
 - **[Probability](https://liyanyang1219.github.io/notes/probability) :** *概率论、随机过程*
 
 - **[Statistics](https://liyanyang1219.github.io/notes/statistics) :** *数理统计*
