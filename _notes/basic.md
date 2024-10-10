@@ -1,7 +1,7 @@
 ---
 title: ""
 collection: notes
-permalink: /basic/
+permalink: /notes/basic
 ---
 
 *test*
