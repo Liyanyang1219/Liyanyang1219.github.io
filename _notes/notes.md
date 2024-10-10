@@ -12,6 +12,18 @@ permalink: /notes/
 
 - **[Analysis](https://liyanyang1219.github.io/notes/analysis) :** *实分析、复分析、泛函分析、调和分析*
 
+- **[Equation](https://liyanyang1219.github.io/notes/equation) :** *常微分方程、偏微分方程*
+
+- **[Geometry](https://liyanyang1219.github.io/notes/geometry) :** *微分几何、微分流形、黎曼几何、黎曼曲面、复几何*
+
+- **[Topology](https://liyanyang1219.github.io/notes/topology) :** *点集拓扑、微分拓扑、代数拓扑*
+
+- **[Algebra](https://liyanyang1219.github.io/notes/algebra) :** *近世代数、交换代数、同调代数、李代数与李群、表示论*
+
+- **[Probability](https://liyanyang1219.github.io/notes/probability) :** *概率论、随机过程*
+
+- **[Statistics](https://liyanyang1219.github.io/notes/statistics) :** *数理统计*
+
 [东南大学高等数学竞赛试题](https://liyanyang1219.github.io/notes/southeast.pdf)
 
 分析与微分方程
