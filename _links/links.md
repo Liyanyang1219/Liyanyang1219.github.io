@@ -20,6 +20,10 @@ permalink: /links/
 
 [中科大王作勤老师的主页](http://staff.ustc.edu.cn/~wangzuoq/)
 
+[南京大学张强老师的主页](http://maths.nju.edu.cn/~qzh/)
+
+[南京大学刘公祥老师的主页](http://maths.nju.edu.cn/~gxliu/)
+
 ## 国外学者主页
 
 [J.S.Milne](https://www.jmilne.org/math/) Milne是个大师，他几乎把上世纪的算术理论全写了一遍。
