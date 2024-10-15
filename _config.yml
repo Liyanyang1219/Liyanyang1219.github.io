@@ -185,7 +185,7 @@ collections:
   notes:
     output: true
     permalink: /:collection/:path/
-  talks:
+  plans:
     output: true
     permalink: /:collection/:path/
 
@@ -237,14 +237,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _talks
+  # _plans
   - scope:
       path: ""
-      type: talks
+      type: plans
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
