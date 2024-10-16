@@ -18,8 +18,8 @@ Refernces:
 
 课程:
 
-[中科大复分析(H)](https://tysunseven.github.io/video/Complex%20Analysis%202020S.html)
-[THU复分析](https://www.bilibili.com/video/BV1US4y1F77R/)
+- [中科大复分析(H)](https://tysunseven.github.io/video/Complex%20Analysis%202020S.html)
+- [THU复分析](https://www.bilibili.com/video/BV1US4y1F77R/)
 
 ## 实分析
 
@@ -32,5 +32,5 @@ Refernces:
 
 课程:
 
-[中科大实分析](https://tysunseven.github.io/video/Real_Analysis_2022.html)
-[中科大实分析(H)](https://tysunseven.github.io/video/Real_Analysis_2020.html)
+- [中科大实分析](https://tysunseven.github.io/video/Real_Analysis_2022.html)
+- [中科大实分析(H)](https://tysunseven.github.io/video/Real_Analysis_2020.html)
