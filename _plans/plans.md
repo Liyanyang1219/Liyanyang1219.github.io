@@ -87,8 +87,8 @@ Refernces:
 - 余家荣
 - 钟玉泉
 - Stein
-- Ahlfors
-- Rudin
+- Ahlfors(*)
+- Rudin(*)
 
 课程:
 
@@ -102,7 +102,7 @@ Refernces:
 - 徐君祥
 - Stein
 - Folland
-- Rudin
+- Rudin(*)
 
 课程:
 
