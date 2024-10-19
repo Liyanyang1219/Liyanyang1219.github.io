@@ -64,17 +64,13 @@ permalink: /plans/
 - 高等代数note
 - 梅加强数学分析习题答案
 - 李炯生线性代数答案
-- ode note
+- 常微分方程 note
+- 丁同仁手写习题解答
 - 概率论note
 - 复分析note
 - 实分析note
 - 抽象代数note
 - 拓扑学note
-
-## 计划安排
-
-
-
 
 ## 参考资料
 
