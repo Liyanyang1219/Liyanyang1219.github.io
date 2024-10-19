@@ -78,6 +78,20 @@ permalink: /plans/
 
 ## 参考资料
 
+### 常微分方程
+
+- 丁同仁 常微分方程
+- 王高雄 常微分方程
+- 柳彬 常微分方程
+- 张伟年 常微分方程
+- 常微分方程学习辅导与习题解答 朱思铭
+- [中科大微分方程引论part1](https://tysunseven.github.io/video/Introduction%20to%20Differential%20Equations%202022F.html)
+- 中科大微分方程引论part1相关资料
+- 凯淼淼常微分方程复习笔记
+- 熊锐常微分方程笔记
+- 山东大学某学姐复习笔记
+- 中科大、山东大学、南开相关试题资料
+
 ### 复分析
 
 Refernces:
