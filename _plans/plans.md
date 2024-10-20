@@ -48,6 +48,16 @@ permalink: /plans/
 ### 概率论
 
 - 张灏 概率论
+- 李贤平 概率论基础及辅导书
+- Grimmett, Stirzaker: Probability and Random Process 及 题解1000例
+- 苏淳 概率论
+- 钟开莱 概率论
+- [中科大概率论](https://tysunseven.github.io/video/Probability_Theory_2020.html)
+- [概率论习题课讲义](http://home.ustc.edu.cn/~zyx240014/USTCProbability/files/Recitation%20of%20Probability.pdf)
+
+### 测度论与概率论基础
+
+- 程士宏 测度论与概率论基础
 
 ### 常微分方程
 
