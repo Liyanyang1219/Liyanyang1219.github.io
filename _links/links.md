@@ -16,13 +16,25 @@ permalink: /links/
 
 [中科大Lv Changle的主页](https://lyuchangle2006.github.io)
 
+## Conferences
+
+[代数拓扑学国际会议](https://iwoat.github.io)
+
 ## 国内学者主页
 
 [中科大王作勤老师的主页](http://staff.ustc.edu.cn/~wangzuoq/)
 
+[南京大学梅加强老师的主页](http://maths.nju.edu.cn/~meijq/)
+
+[南京大学石亚龙老师的主页](http://maths.nju.edu.cn/~yshi/)
+
 [南京大学张强老师的主页](http://maths.nju.edu.cn/~qzh/)
 
 [南京大学刘公祥老师的主页](http://maths.nju.edu.cn/~gxliu/)
+
+[南京大学于立老师的主页](http://maths.nju.edu.cn/~lyu/)
+
+[清华大学李思老师的主页](https://sili-math.github.io)
 
 ## 国外学者主页
 
