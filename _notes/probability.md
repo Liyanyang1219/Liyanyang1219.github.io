@@ -4,4 +4,8 @@ collection: notes
 permalink: /notes/probability
 ---
 
-*test*
+## 概率论
+
+参考书：
+
+- 李贤平
